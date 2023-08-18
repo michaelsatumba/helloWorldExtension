@@ -1,4 +1,4 @@
 document.getElementById('openTab').addEventListener('click', function() {
-    chrome.tabs.create({url: 'https://www.example.com/'});
+    chrome.tabs.create({url: 'https://chat.openai.com/'});
   });
   
