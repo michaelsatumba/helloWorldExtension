@@ -4,7 +4,6 @@
     "description": "Testing out extension development",
     "version": "1.0",
     "browser_action": {
-    //   "default_popup": "popup.html",
       "default_icon": {
         "16": "images/sample.png",
         "48": "images/sample.png",
