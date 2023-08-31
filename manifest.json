@@ -1,21 +1,13 @@
 {
-    "manifest_version": 2,
-    "name": "A sample extension",
-    "description": "Testing out extension development",
-    "version": "1.0",
-    "browser_action": {
-      "default_icon": {
-        "16": "images/sample.png",
-        "48": "images/sample.png",
-        "128": "images/sample.png"
-      }
-    },
-    "permissions": [
-        "tabs"
-      ],
-      "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-      }     
+  "manifest_version": 2,
+  "name": "Text to Speech",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
   }
-  
+}

@@ -1,11 +1,10 @@
-document.getElementById('openTab').addEventListener('click', function() {
-    chrome.tabs.create({url: 'https://chat.openai.com/'});
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('readText').addEventListener('click', function() {
+    chrome.tabs.executeScript({
+      code: 'document.getSelection().toString()'
+    }, function(selection) {
+      var text = selection[0];
+      chrome.tts.speak(text);
+    });
   });
-  
-  // hi 
-  // 8/22/2023
-  // 8/23/2023
-  // 8/24/2023
-  // 8/25/2023
-  // 8/28/23
-  // 8/30/23
+});
