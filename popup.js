@@ -10,3 +10,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // 12/6/23
+// 12/7/23 deploying a tag - copy and paste images - control creating email to report - "ssi.frontend" format - security lecture cs50 understanding technology
