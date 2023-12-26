@@ -14,3 +14,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // 12/19/23 interviewed someone who didn't have projects and had an empty github repository
 // 12/20/23 a lot of css today using chat gpt, not much javascript stuff. html, flexbox, flex-basis. xsl conditional. found useful xml validation tool for debugging. debugging is awesome
 // 12/21/23 a lot of design tickets and css, chatgpt, no js yet. just flexbox, flex-basis. yeah. 2fa almost done. 
+// 12/26/23 looks like work is less busy. But there is still work. nbpa, allianz edits. just another day at work lol. work work work work work work work work work work work work work work. work work work work work work work work work work work work work work work.
