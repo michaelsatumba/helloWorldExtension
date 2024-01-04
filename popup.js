@@ -19,3 +19,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // 12/29/23 chillest day. i love debugging. going to sf. just keep swimming. do less.
 // 1/2/2024 another year of coding! woo!
 // 1/3/22024 blocked on this javascript ticket. need more debugging needed.
+// 1/4/2024 ratios! math is so interesting lol.
