@@ -20,3 +20,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // 1/2/2024 another year of coding! woo!
 // 1/3/22024 blocked on this javascript ticket. need more debugging needed.
 // 1/4/2024 ratios! math is so interesting lol.
+// 1/5/2024 so many criticals today! super busy at work. badge edits. content changes. css is annoying lol.
