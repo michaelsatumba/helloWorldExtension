@@ -21,3 +21,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // 1/3/22024 blocked on this javascript ticket. need more debugging needed.
 // 1/4/2024 ratios! math is so interesting lol.
 // 1/5/2024 so many criticals today! super busy at work. badge edits. content changes. css is annoying lol.
+// 1/7/2024 sunday funday. critical complete. used flexbox and html. fun. 
