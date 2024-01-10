@@ -23,4 +23,5 @@ document.addEventListener('DOMContentLoaded', function() {
 // 1/5/2024 so many criticals today! super busy at work. badge edits. content changes. css is annoying lol.
 // 1/7/2024 sunday funday. critical complete. used flexbox and html. fun.
 // 1/8/2024 monday funday. staging2 is offline. staging2-web  is working though. so can continue work.
-// 1/9/2024 tuesday funday. looks like it is going to be busy. criticals. probably more javascript today as my main focus will be debugging the cox multi-process form. 
+// 1/9/2024 tuesday funday. looks like it is going to be busy. criticals. probably more javascript today as my main focus will be debugging the cox multi-process form.
+// 1/10/2024 super busy today with nbpa stuff. jonathan is shadowing me. just using css. html. xsl on index.xsl is confusing.
