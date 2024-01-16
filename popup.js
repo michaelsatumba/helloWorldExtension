@@ -27,4 +27,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/9/2024 tuesday funday. looks like it is going to be busy. criticals. probably more javascript today as my main focus will be debugging the cox multi-process form.
  1/10/2024 super busy today with nbpa stuff. jonathan is shadowing me. just using css. html. xsl on index.xsl is confusing.
  1/11/2024 worked on nbpa design, cox, javscript, xsl debugging. more work.
+ 1/16/2024 working on creating new systems for us open. also helping with training like css and design stuff with jonathan. that's it for now.
 */
