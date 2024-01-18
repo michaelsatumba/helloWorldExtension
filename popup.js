@@ -29,4 +29,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/11/2024 worked on nbpa design, cox, javscript, xsl debugging. more work.
  1/16/2024 working on creating new systems for us open. also helping with training like css and design stuff with jonathan. that's it for now.
  1/17/24 worked on nbpa updates, worked on tman summit, fdj login, and adjusted due dates for some tickets.
+ 1/18/24 main focus will be fdj today. ahh it got so busy so quickly. it's a good challenge though. small wins. work.
 */
