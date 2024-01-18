@@ -28,4 +28,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/10/2024 super busy today with nbpa stuff. jonathan is shadowing me. just using css. html. xsl on index.xsl is confusing.
  1/11/2024 worked on nbpa design, cox, javscript, xsl debugging. more work.
  1/16/2024 working on creating new systems for us open. also helping with training like css and design stuff with jonathan. that's it for now.
+ 1/17/24 worked on nbpa updates, worked on tman summit, fdj login, and adjusted due dates for some tickets.
 */
