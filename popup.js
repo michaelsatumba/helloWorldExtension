@@ -31,4 +31,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/17/24 worked on nbpa updates, worked on tman summit, fdj login, and adjusted due dates for some tickets.
  1/18/24 main focus will be fdj today. ahh it got so busy so quickly. it's a good challenge though. small wins. work.
  1/19/24 super busy, but work. using css and html. width. interesting that the width attribute works but not the css width. focused on fdj edits and some versioning thing.
+ 1/22/24 looks like it is going to be a busy day. need to ward off new requirements in ticket and create new ones. stick with the process! working on nbpa and tman summit today.
 */
