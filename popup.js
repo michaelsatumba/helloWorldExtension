@@ -33,4 +33,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/19/24 super busy, but work. using css and html. width. interesting that the width attribute works but not the css width. focused on fdj edits and some versioning thing.
  1/22/24 looks like it is going to be a busy day. need to ward off new requirements in ticket and create new ones. stick with the process! working on nbpa and tman summit today.
  1/23/24 looks like it is going to be a busy day too hahaha. allianz and nbpa. endeaveor. woo criticals. training jonathan. he's picking it up pretty fast.
+ 1/26/24 did standup yesterday in front of the company. that was fun! lol. today is chill. beekeeper is nice.
 */
