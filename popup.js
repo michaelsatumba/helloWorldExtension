@@ -34,4 +34,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/22/24 looks like it is going to be a busy day. need to ward off new requirements in ticket and create new ones. stick with the process! working on nbpa and tman summit today.
  1/23/24 looks like it is going to be a busy day too hahaha. allianz and nbpa. endeaveor. woo criticals. training jonathan. he's picking it up pretty fast.
  1/26/24 did standup yesterday in front of the company. that was fun! lol. today is chill. beekeeper is nice.
+ 1/29/24 we got a new coworker! hell yeah. more help for the team! finally lol. We can focus on quality of tickets now. Quality over quantity!
 */
