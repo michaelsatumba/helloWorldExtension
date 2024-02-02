@@ -37,4 +37,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/29/24 we got a new coworker! hell yeah. more help for the team! finally lol. We can focus on quality of tickets now. Quality over quantity!
  1/30/24 looks super busy today, many criticals. ahhhhhhhhh! too many. focus one ticket at a time.
  1/31/24 busy with usopf, allianz, lg. working on a lot of criticals, training new people. normal day at office. i have leftovers from lunch.
+ 2/2/24 forgot to commit yesterday, too many criticals assigned to me. complexity of each ticket is also unbalanced, but worked on allianz itinerary for david. went to service, got lunch. another day in critcal land.
 */
