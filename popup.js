@@ -39,4 +39,5 @@ document.addEventListener('DOMContentLoaded', function() {
  1/31/24 busy with usopf, allianz, lg. working on a lot of criticals, training new people. normal day at office. i have leftovers from lunch.
  2/2/24 forgot to commit yesterday, too many criticals assigned to me. complexity of each ticket is also unbalanced, but worked on allianz itinerary for david. went to service, got lunch. another day in critcal land.
  2/5/24 whf, raining hard yesterday. busy with allianz. lots of translations. copy pasta. lol. not really technical but more menial.
+ 2/6/24 half day today. allianz stuff. then scoping other tickets for this week.
 */
