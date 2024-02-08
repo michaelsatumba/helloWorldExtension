@@ -41,4 +41,5 @@ document.addEventListener('DOMContentLoaded', function() {
  2/5/24 whf, raining hard yesterday. busy with allianz. lots of translations. copy pasta. lol. not really technical but more menial.
  2/6/24 half day today. allianz stuff. then scoping other tickets for this week.
  2/7/24 from first glance today does not seem it will be that busy. have to work on mercedes for zach. dhl for kendal. and more allianz edits.
+ 2/8/24 getting ready for the day, writing comments on jira, looks like more allianz, hopefully i can start on dhl, i miss that project lol.
 */
