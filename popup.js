@@ -44,4 +44,5 @@ document.addEventListener('DOMContentLoaded', function() {
  2/8/24 getting ready for the day, writing comments on jira, looks like more allianz, hopefully i can start on dhl, i miss that project lol.
  2/9/24 full steam ahead on allianz. more work. take a breath. slow down. coding. it's fun sometimes. tortoise.
  2/12/24 back to work, late start at work, started at 10am. drove to the office early, regretfully haha. but more allianz today.
+ 2/13/24 busy with new project now. woo lol. working on waste management circle of excellence. work work work. help javaria with her tickets, allianz asset tool email - needs real asset. then background image on emails.
 */
