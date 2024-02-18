@@ -47,4 +47,5 @@ document.addEventListener('DOMContentLoaded', function() {
  2/13/24 busy with new project now. woo lol. working on waste management circle of excellence. work work work. help javaria with her tickets, allianz asset tool email - needs real asset. then background image on emails.
  2/14/24 stressed out with allianz. very busy. the tickets do not stop. anyway just going to do my best.
  2/16/24 still working on allianz itiniaries and css. logic is all done. i think, but other tickets are coming up. work work work.
+ 2/18/24 not working because it is sunday.
 */
