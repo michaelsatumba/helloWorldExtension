@@ -48,4 +48,5 @@ document.addEventListener('DOMContentLoaded', function() {
  2/14/24 stressed out with allianz. very busy. the tickets do not stop. anyway just going to do my best.
  2/16/24 still working on allianz itiniaries and css. logic is all done. i think, but other tickets are coming up. work work work.
  2/18/24 not working because it is sunday.
+ 2/20/24 finishing up allianz then have to go back to the 2fa project and configure the resend code button, then the tman email.
 */
