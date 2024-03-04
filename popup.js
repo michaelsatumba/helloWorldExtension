@@ -52,4 +52,5 @@ document.addEventListener('DOMContentLoaded', function() {
  2/21/24 one year! woo! wow what a feeling. that's crazy. one year - what! woo! working allianz still.
  2/29/24 back from pto, worked on allianz critical and then now working on waste management.
  3/1/24 super busy with allianz. translations argh. and resend function
+ 3//3/24 back to allianz grind. tranlsations, custom functions, fun!
 */
