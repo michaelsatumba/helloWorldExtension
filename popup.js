@@ -56,4 +56,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/5/24 today i have to work on allians, new fanatics masters build, constellation build from mubashar, busy work!
 3/6/24 working on constellation ticket 15903 then dhl, then will learn report function for app confirm
 3/7/24 still working on allianz then i have some dhl form stuff 10690 then some waste management stuff
+3/8/24 working on wm design and form and then dhl form then assets, then allianz resend
 */
