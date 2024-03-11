@@ -57,4 +57,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/6/24 working on constellation ticket 15903 then dhl, then will learn report function for app confirm
 3/7/24 still working on allianz then i have some dhl form stuff 10690 then some waste management stuff
 3/8/24 working on wm design and form and then dhl form then assets, then allianz resend
+3/11/24 working on some image path stuff. then some harder tickets later, waste management circle of excellence and resend later.
 */
