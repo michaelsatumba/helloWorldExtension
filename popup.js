@@ -60,4 +60,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/11/24 working on some image path stuff. then some harder tickets later, waste management circle of excellence and resend later.
 3/12/34 working on ticket and asset tool contact form conditional.
 3/13/24 working on constellation system, then wm ticket. have to work on presentation.
+3/14/24 pi day, haven't looked at queue yet but expect work from constellation and other things.
 */
