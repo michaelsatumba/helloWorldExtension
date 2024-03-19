@@ -63,4 +63,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/14/24 pi day, haven't looked at queue yet but expect work from constellation and other things.
 3/15/24 working on presentation then have to do some mobile edits later.
 3/18/24 working on circle of excellence and coca cola functionality. Good test.
+3/19/24 working on coca-cola and wm circle of exellence. That's it. Meeting with team to go over creating bots and configuring them right now.
 */
