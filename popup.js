@@ -66,4 +66,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/19/24 working on coca-cola and wm circle of exellence. That's it. Meeting with team to go over creating bots and configuring them right now.
 3/20/24 working on circle of excellence and coca cola and shell. lost of work. and lost of little changes but have to focus on big projects
 3/21/24 need to debug circle of excellence and coca cola. Those are my focus.
+3/22/24 work on coca cola, circle of excellence. then work on dhl and fedex.
 */
