@@ -67,4 +67,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/20/24 working on circle of excellence and coca cola and shell. lost of work. and lost of little changes but have to focus on big projects
 3/21/24 need to debug circle of excellence and coca cola. Those are my focus.
 3/22/24 work on coca cola, circle of excellence. then work on dhl and fedex.
+3/25/24 focus on quality. going to work on shell, fedex, coca-cola, and dhl today. focus on quality!
 */
