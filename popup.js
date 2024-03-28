@@ -70,4 +70,5 @@ document.addEventListener('DOMContentLoaded', function() {
 3/25/24 focus on quality. going to work on shell, fedex, coca-cola, and dhl today. focus on quality!
 3/26/24 I have  a shell and coca cola ticket to work on. Obsess over quality!
 3/27/24 frustrating working with other people. working on shell and dhl today
+3/28/24 working on allianz and coca cola today. obsess over quality.
 */
